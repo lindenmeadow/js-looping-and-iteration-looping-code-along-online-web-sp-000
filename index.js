@@ -10,6 +10,6 @@ function writeCards(names, ev) {
 
 function countDown(int) {
   while (int > 0) {
-    console.log(countdown--);
+    console.log(int--);
   }
 }
